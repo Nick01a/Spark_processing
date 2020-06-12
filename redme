@@ -1,0 +1,7 @@
+1) running Kafka commands (in kafka folder)
+	a)bin/zookeeper-server-start.sh config/zookeeper.properties
+	b)bin/kafka-server-start.sh config/server.properties
+
+2)run producer.py
+
+3)run stream.py
